@@ -21,7 +21,9 @@
 
 - 📄 Know about my experiences [https://www.ugbanawaji.com/resume](https://www.ugbanawaji.com/resume)
 
-- ⚡ Fun fact **I love piano keyb oard**
+- ⚡ Fun fact **I love piano keyboard**
+- 
+- [You could find my thought here and all things tinkering](https://www.github.com/Tetranyble/playground)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
