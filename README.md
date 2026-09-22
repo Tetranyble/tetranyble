@@ -1,44 +1,227 @@
-<h1 align="center">Hi 👋, I'm Leonard Ekenekiso</h1>
-<h3 align="center">A passionate frontend and Backend developer from Nigeria.</h3>
+# Leonard Ekenekiso
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tetranyble&label=Profile%20views&color=0e75b6&style=flat" alt="tetranyble" /> </p>
+### Backend Software Engineer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tetranyble" alt="tetranyble" /></a> </p>
+I build backend systems, APIs and integrations for products where reliability,
+business rules and system boundaries matter.
 
-<p align="left"> <a href="https://twitter.com/ekenekiso" target="blank"><img src="https://img.shields.io/twitter/follow/ekenekiso?logo=twitter&style=for-the-badge" alt="ekenekiso" /></a> </p>
+My professional background began primarily in the PHP ecosystem, building
+applications and backend systems with PHP and Laravel. As my work expanded into
+financial systems, integrations and more complex backend architecture, Java and
+Spring Boot became an important part of my professional work.
 
-- 🔭 I’m currently working on **Pensuh**
+Today I work across both ecosystems. I also use React and TypeScript when
+end-to-end product delivery is useful, and more recently I have been applying
+the same backend-engineering principles to agentic and LLM-backed systems with
+Java and LangChain4j.
 
-- 🌱 I’m currently learning **Mobile Development (Flutter)**
+---
 
-- 👨‍💻 All of my projects are available at [https://www.ugbanawaji.com](https://www.ugbanawaji.com)
+## What I work on
 
-- 📝 I regularly write articles on [dev.to](dev.to)
+- Backend application and API architecture
+- Fintech, payments and transaction-heavy systems
+- Integration-heavy business platforms
+- Reliability, idempotency and failure handling
+- Asynchronous processing and distributed-system patterns
+- SaaS and multi-tenant applications
+- Applied AI and agentic systems
 
-- 💬 Ask me about **Laravel PHP, NextJs, Reactjs, Vuejs**
+---
 
-- 📫 How to reach me **senenerst@gmail.com**
+## How my work has evolved
 
-- 📄 Know about my experiences [https://www.ugbanawaji.com/resume](https://www.ugbanawaji.com/resume)
+**PHP / Laravel**  
+Much of my professional foundation was built in the PHP ecosystem, working on
+business applications, APIs, relational databases and Laravel-based systems.
 
-- ⚡ Fun fact **I love piano keyboard**
-- 
-- [You could find my thought here and all things tinkering](https://www.github.com/Tetranyble/playground)
+**Backend engineering**  
+Over time, my responsibilities expanded beyond framework-level development
+into architecture, integrations, infrastructure, reliability and production
+ownership.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ekenekiso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ekenekiso" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ugbanawaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ugbanawaji" height="30" width="40" /></a>
-<a href="https://instagram.com/ugbanawajis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ugbanawajis" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ugbanawaji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ugbanawaji" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/senenerst" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="senenerst" height="30" width="40" /></a>
-</p>
+**Java / Spring Boot**  
+Java had been part of my software background through earlier training and
+personal projects, and later became part of my professional work through
+full-time backend engineering roles.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com/amplify/" target="_blank" rel="noreferrer"> <img src="https://docs.amplify.aws/assets/logo-dark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://circleci.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://travis-ci.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/travis-ci/travis-ci-icon.svg" alt="travisci" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+**Fintech & payments**  
+My work increasingly moved toward financial systems, banking integrations,
+payments, transaction workflows and systems where correctness and
+recoverability matter.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=tetranyble&show_icons=true&locale=en&layout=compact" alt="tetranyble" /></p>
+**Applied AI**  
+More recently, I have been applying the same backend-engineering discipline to
+agentic and LLM-backed systems using Java, Spring Boot and LangChain4j.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tetranyble&show_icons=true&locale=en" alt="tetranyble" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tetranyble&" alt="tetranyble" /></p>
+# Selected Engineering Work
+
+## Credense
+
+A multi-tenant credit and risk platform built around the workflows financial
+institutions use to evaluate borrowers and make lending decisions.
+
+The platform brings together credit-bureau data, borrower information,
+repayment history and configurable risk rules into a structured decision
+workflow.
+
+My work includes areas such as:
+
+- Multi-tenant application architecture
+- Credit-bureau integrations
+- Credit reports and score processing
+- Creditor and loan-history modelling
+- Repayment schedules
+- Debt-to-income and risk-rule evaluation
+- Blacklist and eligibility checks
+- Configurable lending risk profiles
+- Tenant onboarding and operational workflows
+- Data normalization and matching
+- API and application architecture
+
+**Primary stack**
+
+`PHP` `Laravel` `MySQL` `React` `TypeScript` `Inertia.js`
+
+> Credense is under active development and the main repository is private.
+
+---
+
+## Airvend
+
+Professional backend engineering work on financial and value-added-service
+platforms at Airvend.
+
+My work is primarily in the Java ecosystem and involves backend services,
+external integrations and transaction-oriented systems operating behind
+consumer and merchant-facing products.
+
+The work has strengthened my experience in areas such as:
+
+- Java backend development
+- Spring Boot services
+- REST API design
+- External service integrations
+- Transaction processing
+- Persistence and database-backed workflows
+- Authentication and application security
+- Failure handling and operational reliability
+- Maintaining and evolving existing production systems
+
+**Primary stack**
+
+`Java` `Spring Boot` `JPA / Hibernate` `SQL` `REST APIs`
+
+The production repositories are private company repositories, so implementation
+details are intentionally not published here.
+
+---
+
+## [AI Learn](https://github.com/Tetranyble/ai-learn)
+
+A Java/Spring Boot reference application exploring how AI conversations can be
+implemented as durable backend workflows instead of transient calls to an LLM.
+
+The system persists conversation and run state before model execution and
+supports asynchronous processing, cancellation, reconnect/replay and
+multi-node event delivery.
+
+Some of the engineering concerns explored in the project include:
+
+- Persistent AI conversation state
+- Durable execution
+- Transactional outbox
+- Redis Streams
+- Redis Pub/Sub
+- WebSocket and SSE delivery
+- Cancellation and interruption
+- Replay after client disconnects
+- Idempotency
+- Multi-node coordination
+- Structured application events
+- Automated testing
+
+**Stack**
+
+`Java` `Spring Boot` `LangChain4j` `JPA / Hibernate` `MySQL` `Redis`
+
+---
+
+## [Ugbanawaji](https://github.com/Tetranyble/ugbanawaji)
+
+The application behind my personal website and publishing platform.
+
+It is more than a static portfolio. The project includes a private content
+management system and supporting workflows for publishing and managing
+technical content.
+
+The application includes:
+
+- Content authoring and publishing
+- Drafts and revisions
+- Scheduled publishing
+- Media management
+- Newsletter workflows
+- Search
+- Analytics
+- Contact management
+- Authentication
+- Background processing
+- AI-assisted interaction with published content
+- PWA and offline recovery
+
+**Stack**
+
+`Next.js` `React` `TypeScript` `MySQL` `Drizzle` `Better Auth`
+
+---
+
+# Technologies
+
+### Backend
+
+`Java` `Spring Boot` `PHP` `Laravel`
+
+### Data & messaging
+
+`MySQL` `PostgreSQL` `Redis`
+
+### Infrastructure
+
+`AWS` `Docker` `Linux` `CI/CD`
+
+### Full-stack when needed
+
+`TypeScript` `React` `Next.js` `Inertia.js`
+
+### Applied AI
+
+`LangChain4j` `LLM Integration` `Agentic Workflows`
+
+---
+
+# Engineering Interests
+
+I am particularly interested in backend problems involving:
+
+- financial and transactional workflows
+- complex business domains
+- third-party and banking integrations
+- reliability and recoverability
+- idempotent processing
+- asynchronous systems
+- domain modelling
+- system architecture
+- practical AI integration inside conventional software systems
+
+I prefer systems where engineering decisions have consequences beyond simply
+getting a request from a controller to a database.
+
+---
+
+# Elsewhere
+
+- **Portfolio:** [ugbanawaji.com](https://ugbanawaji.com)
+- **LinkedIn:** [linkedin.com/in/ugbanawaji](https://www.linkedin.com/in/ugbanawaji)
